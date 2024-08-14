@@ -12,8 +12,6 @@ The objective of this task is to detect hate speech in tweets. For the sake of s
 The final SVM model achieved an accuracy of 96% on the test dataset.
 Precision, Recall, and F1-Score values were 96%, 96%, and 96% respectively, indicating the model's effectiveness in detecting hate speech.
 
-
-
 ## NOT HATE TWEET
 ![noHate](https://github.com/user-attachments/assets/7182d3fa-faed-494b-8ba1-8bdf3cb1eae1)
 
